@@ -8,7 +8,7 @@ import { TransitionType } from "@revolt/client/Controller";
 import { Navigate } from "@revolt/routing";
 import { Button, Column } from "@revolt/ui";
 
-import RevoltSvg from "../../../../public/assets/wordmark_wide_500px.svg?component-solid";
+import BrandSvg from "../../../../public/assets/spacebar_wordmark.svg?component-solid";
 
 const logo = cva({
   base: {
@@ -33,7 +33,7 @@ export default function FlowHome() {
           </Show>
 
           <Column gap="xl">
-            <RevoltSvg class={logo()} />
+            <BrandSvg class={logo()} />
 
             <Column>
               <b
@@ -58,8 +58,8 @@ export default function FlowHome() {
               </b>
               <span style={{ "text-align": "center", opacity: "0.5" }}>
                 <Trans>
-                  Revolt is one of the best ways to stay connected with your
-                  friends and community, anywhere, anytime.
+                  Круг гусляров-один из лучших способов оставаться на связи с друзьями и сообществом 
+                  в любом месте и в любое время.
                 </Trans>
               </span>
             </Column>
@@ -88,7 +88,7 @@ export default function FlowHome() {
         <Switch fallback={"an unknown error occurred"}>
           <Match when={lifecycle.permanentError === "InvalidSession"}>
             <h1>
-              <Trans>You were logged out!</Trans>
+              <Trans>Вы вышли из учётной записи!</Trans>
             </h1>
           </Match>
         </Switch>
