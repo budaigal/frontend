@@ -26,11 +26,11 @@ import MdPayments from "@material-design-icons/svg/filled/payments.svg?component
 import MdRateReview from "@material-design-icons/svg/filled/rate_review.svg?component-solid";
 import MdSettings from "@material-design-icons/svg/filled/settings.svg?component-solid";
 
-import RevoltSvg from "../../public/assets/wordmark_wide_500px.svg?component-solid";
+import BrandSvg  from "../../public/assets/spacebar_wordmark.svg?component-solid";
 
 import { HeaderIcon } from "./common/CommonHeader";
 
-const Logo = styled(RevoltSvg, {
+const Logo = styled(BrandSvg, {
   base: {
     fill: "var(--md-sys-color-on-surface)",
   },
