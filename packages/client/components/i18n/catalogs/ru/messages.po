@@ -1,0 +1,3134 @@
+msgid ""
+msgstr ""
+
+"POT-Creation-Date: 2025-08-02 12:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: custom\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%100<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#. key path
+msgid "general.about"
+msgstr "О нас"
+
+#. key path
+msgid "general.tos"
+msgstr "Условия использования"
+
+#. key path
+msgid "general.privacy"
+msgstr "Политика конфиденциальности"
+
+#. key path
+msgid "general.image_by"
+msgstr "Автор изображения"
+
+#. key path
+msgid "general.loading"
+msgstr "Загрузка…"
+
+#. key path
+msgid "general.on"
+msgstr "Вкл"
+
+#. key path
+msgid "general.off"
+msgstr "Выкл"
+
+#. key path
+msgid "general.disabled"
+msgstr "Отключено"
+
+#. key path
+msgid "general.unavailable"
+msgstr "Недоступно"
+
+#. key path
+msgid "general.learn_more"
+msgstr "Больше информации"
+
+#. key path
+msgid "login.title"
+msgstr "Войти"
+
+#. key path
+msgid "login.email"
+msgstr "Электронная почта"
+
+#. key path
+msgid "login.password"
+msgstr "Пароль"
+
+#. key path
+msgid "login.enter.email"
+msgstr "Введите свою электронную почту."
+
+#. key path
+msgid "login.enter.password"
+msgstr "Введите свой пароль."
+
+#. key path
+msgid "login.enter.username"
+msgstr "Введите имя пользователя."
+
+#. key path
+msgid "login.enter.invite"
+msgstr "Введите свой код приглашения."
+
+#. key path
+msgid "login.enter.current_password"
+msgstr "Введите ваш текущий пароль."
+
+#. key path
+msgid "login.enter.new_password"
+msgstr "Введите новый пароль."
+
+#. key path
+msgid "login.forgot"
+msgstr "Забыли пароль?"
+
+#. key path
+msgid "login.new"
+msgstr "Впервые в Кругу гусляров?"
+
+#. key path
+msgid "login.create"
+msgstr "Создать новый аккаунт"
+
+#. key path
+msgid "login.reset"
+msgstr "Восстановить пароль"
+
+#. key path
+msgid "login.remembered"
+msgstr "Вернуться ко входу"
+
+#. key path
+msgid "login.open_mail_provider"
+msgstr "Открыть {{provider}}"
+
+#. key path
+msgid "login.successful_registration"
+msgstr "Вы успешно зарегистрировались!"
+
+#. key path
+msgid "login.current_password"
+msgstr "Текущий пароль"
+
+#. key path
+msgid "login.cancel"
+msgstr "Отменить запрос"
+
+#. key path
+msgid "login.invite"
+msgstr "Код приглашения"
+
+#. key path
+msgid "login.set_password"
+msgstr "Установить новый пароль"
+
+#. key path
+msgid "login.missing_verification"
+msgstr "Не пришло письмо?"
+
+#. key path
+msgid "login.resend"
+msgstr "Отправить подтверждение повторно"
+
+#. key path
+msgid "login.error.login"
+msgstr "Не удалось войти!"
+
+#. key path
+msgid "login.error.reset"
+msgstr "Не удалось сбросить!"
+
+#. key path
+msgid "login.error.resend"
+msgstr "Не удалось повторно отправить!"
+
+#. key path
+msgid "login.error.create"
+msgstr "Не удалось зарегистрироваться!"
+
+#. key path
+msgid "login.error.verify"
+msgstr "Не удалось проверить!"
+
+#. key path
+msgid "login.register"
+msgstr "Зарегистрироваться"
+
+#. key path
+msgid "login.username"
+msgstr "Имя пользователя"
+
+#. key path
+msgid "login.existing"
+msgstr "Уже имеете аккаунт?"
+
+#. key path
+msgid "login.check_mail"
+msgstr "Проверьте свою электронную почту!"
+
+#. key path
+msgid "login.check_spam"
+msgstr "Проверьте папку \"Спам\", если не можете найти письмо"
+
+#. key path
+msgid "login.email_delay"
+msgstr "Мы отправили вам на электронную почту письмо для подтверждения. Пожалуйста, подождите до 10 минут для его получения."
+
+#. key path
+msgid "login.welcome2"
+msgstr "Привет!"
+
+#. key path
+msgid "login.subtitle2"
+msgstr "Создать аккаунт"
+
+#. key path
+msgid "login.welcome"
+msgstr "Добро пожаловать!"
+
+#. key path
+msgid "login.subtitle"
+msgstr "Войти в Круг гусляров"
+
+#. key path
+msgid "login.unofficial_instance"
+msgstr "Неофициальный сервер."
+
+#. key path
+msgid "login.totp"
+msgstr "Приложение для аутентификации"
+
+#. key path
+msgid "login.recovery"
+msgstr "Код восстановления"
+
+#. key path
+msgid "login.verified_account"
+msgstr "Ваш аккаунт проверен!"
+
+#. key path
+msgid "login.verified_continue"
+msgstr "Продолжить вход"
+
+#. key path
+msgid "login.verifying_account"
+msgstr "Проверка вашего аккаунта…"
+
+#. key path
+msgid "login.new_password"
+msgstr "Новый пароль"
+
+#. key path
+msgid "login.log_out_other"
+msgstr "Выйти из всех других сессий"
+
+#. key path
+msgid "app.main.channel.message"
+msgstr "Писать {{name}}"
+
+#. key path
+msgid "app.main.channel.system.user_left"
+msgstr "{{user}} покидает чат"
+
+#. key path
+msgid "app.main.channel.system.removed_by"
+msgstr "{{other_user}} удалил {{user}}"
+
+#. key path
+msgid "app.main.channel.system.user_joined"
+msgstr "{{user}} присоединяется"
+
+#. key path
+msgid "app.main.channel.system.added_by"
+msgstr "{{other_user}} добавил {{user}}"
+
+#. key path
+msgid "app.main.channel.system.channel_renamed"
+msgstr "{{user}} переименовал канал в {{name}}"
+
+#. key path
+msgid "app.main.channel.system.channel_icon_changed"
+msgstr "{{user}} изменил значок канала"
+
+#. key path
+msgid "app.main.channel.system.channel_description_changed"
+msgstr "{{user}} изменил описание канала"
+
+#. key path
+msgid "app.main.channel.system.user_banned"
+msgstr "{{user}} был забанен"
+
+#. key path
+msgid "app.main.channel.system.user_kicked"
+msgstr "{{user}} был выгнан"
+
+#. key path
+msgid "app.main.channel.system.channel_ownership_changed"
+msgstr "{{from}} передал {{to}} владельца группы"
+
+#. key path
+msgid "app.main.channel.system.registered_at"
+msgstr "Зарегистрирован {{time}}"
+
+#. key path
+msgid "app.main.channel.message_who"
+msgstr "Написать @{{person}}"
+
+#. key path
+msgid "app.main.channel.uploading_file"
+msgstr "Загрузка…"
+
+#. key path
+msgid "app.main.channel.failed_upload"
+msgstr "Не удалось загрузить!"
+
+#. key path
+msgid "app.main.channel.attached_file"
+msgstr "Прикреплено {{filename}}"
+
+#. key path
+msgid "app.main.channel.typing.single"
+msgstr "{{user}} печатает…"
+
+#. key path
+msgid "app.main.channel.typing.multiple"
+msgstr "{{userlist}} и {{user}} печатают…"
+
+#. key path
+msgid "app.main.channel.typing.several"
+msgstr "Несколько людей печатают…"
+
+#. key path
+msgid "app.main.channel.unknown_user"
+msgstr "<Неизвестный пользователь>"
+
+#. key path
+msgid "app.main.channel.message_where"
+msgstr "Написать в {{channel_name}}"
+
+#. key path
+msgid "app.main.channel.message_saved"
+msgstr "Сохранить в заметки"
+
+#. key path
+msgid "app.main.channel.bot"
+msgstr "Бот"
+
+#. key path
+msgid "app.main.channel.start.group"
+msgstr "Это начало вашей беседы."
+
+#. key path
+msgid "app.main.channel.start.saved"
+msgstr "Это начало ваших заметок."
+
+#. key path
+msgid "app.main.channel.edited"
+msgstr "(изменено)"
+
+#. key path
+msgid "app.main.channel.voice.connected"
+msgstr "Голосовая связь подключена"
+
+#. key path
+msgid "app.main.channel.voice.leave"
+msgstr "Покинуть"
+
+#. key path
+msgid "app.main.channel.voice.mute"
+msgstr "Отключить микрофон"
+
+#. key path
+msgid "app.main.channel.voice.unmute"
+msgstr "Включить микрофон"
+
+#. key path
+msgid "app.main.channel.misc.spoiler_attachment"
+msgstr "Спойлер"
+
+#. key path
+msgid "app.main.channel.misc.jump_present"
+msgstr "Перейти в конец"
+
+#. key path
+msgid "app.main.channel.misc.viewing_old"
+msgstr "Просмотр старых сообщений"
+
+#. key path
+msgid "app.main.channel.misc.failed_load"
+msgstr "Не удалось загрузить сообщение."
+
+#. key path
+msgid "app.main.channel.misc.no_sending"
+msgstr "У вас нет прав на отправку сообщений в этом канале."
+
+#. key path
+msgid "app.main.channel.misc.blocked_messages"
+msgstr "{{count}} заблокированных сообщений"
+
+#. key path
+msgid "app.main.channel.misc.blocked_user"
+msgstr "Заблокированный пользователь"
+
+#. key path
+msgid "app.main.channel.misc.sent_multiple_files"
+msgstr "Отправил несколько вложений"
+
+#. key path
+msgid "app.main.channel.misc.sent_file"
+msgstr "Отправил вложение"
+
+#. key path
+msgid "app.main.channel.misc.jump_beginning"
+msgstr "Перейти к началу"
+
+#. key path
+msgid "app.main.channel.misc.new_messages"
+msgstr "Новые сообщения с {{time_ago}}"
+
+#. key path
+msgid "app.main.channel.misc.load_file"
+msgstr "Загрузить файл"
+
+#. key path
+msgid "app.main.channel.misc.timed_out"
+msgstr "Вы отстранены на {{time}}."
+
+#. key path
+msgid "app.main.channel.misc.not_loaded"
+msgstr "Сообщение не загружено, нажмите, чтобы перейти"
+
+#. key path
+msgid "app.main.channel.notifications.all"
+msgstr "Все сообщения"
+
+#. key path
+msgid "app.main.channel.notifications.mention"
+msgstr "Только упоминания"
+
+#. key path
+msgid "app.main.channel.notifications.none"
+msgstr "Ничего"
+
+#. key path
+msgid "app.main.channel.notifications.muted"
+msgstr "Заглушен"
+
+#. key path
+msgid "app.main.channel.notifications.default"
+msgstr "Использовать стандартные настройки"
+
+#. key path
+msgid "app.main.channel.nsfw.channel.marked"
+msgstr "Этот канал помечен как NSFW."
+
+#. key path
+msgid "app.main.channel.nsfw.channel.confirm"
+msgstr "Войти в канал"
+
+#. key path
+msgid "app.main.channel.nsfw.confirm"
+msgstr "Я подтверждаю, что мне больше 18 лет."
+
+#. key path
+msgid "app.main.channel.search.title"
+msgstr "Поиск"
+
+#. key path
+msgid "app.main.channel.search.sort.latest"
+msgstr "Последние"
+
+#. key path
+msgid "app.main.channel.search.sort.relevance"
+msgstr "Актуальные"
+
+#. key path
+msgid "app.main.channel.search.sort.oldest"
+msgstr "Старые"
+
+#. key path
+msgid "app.main.channel.errors.title"
+msgstr "Упс, здесь ничего нет!"
+
+#. key path
+msgid "app.main.channel.errors.nochannels"
+msgstr "На этом сервере нет каналов, или у вас нет доступа к ним."
+
+#. key path
+msgid "app.main.channel.errors.nochannel"
+msgstr "Нет канала"
+
+#. key path
+msgid "app.main.channel.reply.replying"
+msgstr "Ответ для"
+
+#. key path
+msgid "app.main.channel.reply.toggle"
+msgstr "Переключить упоминание автора"
+
+#. key path
+msgid "app.main.channel.bridge"
+msgstr "мост"
+
+#. key path
+msgid "app.main.channel.user_timed_out"
+msgstr "Пользователь отстранён на {{time}}."
+
+#. key path
+msgid "app.main.channel.bridged"
+msgstr "Сообщение было отправлено на другой платформе"
+
+#. key path
+msgid "app.main.channel.team"
+msgstr "Официальное сообщение"
+
+#. key path
+msgid "app.main.channel.reactions.single_reacted"
+msgstr "1 человек отреагировал"
+
+#. key path
+msgid "app.main.channel.reactions.others_reacted"
+msgstr "{{userlist}} и ещё {{count}} отреагировали"
+
+#. key path
+msgid "app.main.channel.reactions.people_reacted"
+msgstr "{{people}} отреагировали"
+
+#. key path
+msgid "app.main.channel.reactions.unknown_reacted"
+msgstr "{{count}} людей отреагировало"
+
+#. key path
+msgid "app.main.channel.new_to_revolt"
+msgstr "Новый в Кругу гусляров"
+
+#. key path
+msgid "app.main.channel.new_to_server"
+msgstr "Новичок на этом сервере"
+
+#. key path
+msgid "app.main.categories.members"
+msgstr "Участники"
+
+#. key path
+msgid "app.main.categories.channels"
+msgstr "Каналы"
+
+#. key path
+msgid "app.main.categories.conversations"
+msgstr "Беседы"
+
+#. key path
+msgid "app.main.categories.participants"
+msgstr "Участники"
+
+#. key path
+msgid "app.main.groups.create"
+msgstr "Создать группу"
+
+#. key path
+msgid "app.main.groups.name"
+msgstr "Название группы"
+
+#. key path
+msgid "app.main.groups.owner"
+msgstr "Владелец группы"
+
+#. key path
+msgid "app.main.groups.description"
+msgstr "Описание группы"
+
+#. key path
+msgid "app.main.servers.create"
+msgstr "Создать сервер"
+
+#. key path
+msgid "app.main.servers.name"
+msgstr "Название сервера"
+
+#. key path
+msgid "app.main.servers.channel_name"
+msgstr "Название канала"
+
+#. key path
+msgid "app.main.servers.owner"
+msgstr "Владелец сервера"
+
+#. key path
+msgid "app.main.servers.description"
+msgstr "Описание сервера"
+
+#. key path
+msgid "app.main.servers.channel_description"
+msgstr "Описание канала"
+
+#. key path
+msgid "app.main.servers.custom_banner"
+msgstr "Пользовательский баннер"
+
+#. key path
+msgid "app.main.servers.channel_type"
+msgstr "Тип канала"
+
+#. key path
+msgid "app.main.servers.text_channel"
+msgstr "Текстовый канал"
+
+#. key path
+msgid "app.main.servers.voice_channel"
+msgstr "Голосовой канал"
+
+#. key path
+msgid "app.main.servers.category_name"
+msgstr "Название категории"
+
+#. key path
+msgid "app.navigation.tabs.dev"
+msgstr "Разработчик"
+
+#. key path
+msgid "app.navigation.tabs.home"
+msgstr "Домашняя страница"
+
+#. key path
+msgid "app.navigation.tabs.friends"
+msgstr "Друзья"
+
+#. key path
+msgid "app.navigation.tabs.unreads"
+msgstr "Непрочитанные"
+
+#. key path
+msgid "app.navigation.tabs.saved"
+msgstr "Заметки"
+
+#. key path
+msgid "app.settings.pages.sessions.title"
+msgstr "Сессии"
+
+#. key path
+msgid "app.settings.pages.sessions.this_device"
+msgstr "Это устройство"
+
+#. key path
+msgid "app.settings.pages.sessions.created"
+msgstr "Создано {{time_ago}}"
+
+#. key path
+msgid "app.settings.pages.sessions.active_sessions"
+msgstr "Активные сессии"
+
+#. key path
+msgid "app.settings.pages.sessions.logout"
+msgstr "Выйти из всех других сессий"
+
+#. key path
+msgid "app.settings.pages.appearance.title"
+msgstr "Внешний вид"
+
+#. key path
+msgid "app.settings.pages.appearance.overrides"
+msgstr "Переопределение тем"
+
+#. key path
+msgid "app.settings.pages.appearance.reset_overrides"
+msgstr "Сбросить переопределения"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_data"
+msgstr "Данные темы"
+
+#. key path
+msgid "app.settings.pages.appearance.theme"
+msgstr "Тема"
+
+#. key path
+msgid "app.settings.pages.appearance.import_manual"
+msgstr "Импортировать вручную"
+
+#. key path
+msgid "app.settings.pages.appearance.display.default_description"
+msgstr "Прекрасный, гладкий и современный."
+
+#. key path
+msgid "app.settings.pages.appearance.display.default"
+msgstr "По умолчанию"
+
+#. key path
+msgid "app.settings.pages.appearance.display.compact"
+msgstr "Компактно"
+
+#. key path
+msgid "app.settings.pages.appearance.display.compact_description"
+msgstr "Старый добрый IRC."
+
+#. key path
+msgid "app.settings.pages.appearance.advanced"
+msgstr "Дополнительные настройки"
+
+#. key path
+msgid "app.settings.pages.appearance.message_display"
+msgstr "Отображение сообщений"
+
+#. key path
+msgid "app.settings.pages.appearance.import_theme"
+msgstr "Импортировать тему из строки"
+
+#. key path
+msgid "app.settings.pages.appearance.custom_css"
+msgstr "Пользовательский CSS"
+
+#. key path
+msgid "app.settings.pages.appearance.sync"
+msgstr "Синхронизировать настройки"
+
+#. key path
+msgid "app.settings.pages.appearance.accent_selector"
+msgstr "Цвет акцента"
+
+#. key path
+msgid "app.settings.pages.appearance.export_clipboard"
+msgstr "Экспорт в буфер обмена"
+
+#. key path
+msgid "app.settings.pages.appearance.import_clipboard"
+msgstr "Импорт из буфера обмена"
+
+#. key path
+msgid "app.settings.pages.appearance.color.light"
+msgstr "светлая"
+
+#. key path
+msgid "app.settings.pages.appearance.color.dark"
+msgstr "тёмная"
+
+#. key path
+msgid "app.settings.pages.appearance.emoji_pack"
+msgstr "Набор эмодзи"
+
+#. key path
+msgid "app.settings.pages.appearance.font"
+msgstr "Шрифт"
+
+#. key path
+msgid "app.settings.pages.appearance.mono_font"
+msgstr "Выбор моноширинного шрифта"
+
+#. key path
+msgid "app.settings.pages.appearance.ligatures"
+msgstr "Лигатуры шрифтов"
+
+#. key path
+msgid "app.settings.pages.appearance.ligatures_desc"
+msgstr "Для поддерживаемых шрифтов лигатуры объединяют символы вместе, например, превращая -> в стрелку."
+
+#. key path
+msgid "app.settings.pages.appearance.import"
+msgstr "Импортировать тему"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.title"
+msgstr "Настройки темы"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.follow"
+msgstr "Использовать системную тему"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.follow_desc"
+msgstr "Если включено, вы не сможете использовать любую другую тему."
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.seasonal"
+msgstr "Сезонная тема"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.seasonal_desc"
+msgstr "Отображать эффекты на домашней вкладке во время сезонных праздников."
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.transparency"
+msgstr "Эффекты прозрачности"
+
+#. key path
+msgid "app.settings.pages.appearance.theme_options.transparency_desc"
+msgstr "Включает эффекты прозрачности во всём приложении."
+
+#. key path
+msgid "app.settings.pages.appearance.discover.description"
+msgstr "Просмотреть все созданные сообществом темы"
+
+#. key path
+msgid "app.settings.pages.appearance.discover.title"
+msgstr "Исследуйте темы"
+
+#. key path
+msgid "app.settings.pages.appearance.appearance_options.title"
+msgstr "Внешний вид"
+
+#. key path
+msgid "app.settings.pages.appearance.appearance_options.show_send"
+msgstr "Всегда показывать кнопку отправки сообщений"
+
+#. key path
+msgid "app.settings.pages.appearance.appearance_options.show_send_desc"
+msgstr "Если выключено, кнопка отправки сообщений будет отображаться только на мобильных устройствах."
+
+#. key path
+msgid "app.settings.pages.appearance.appearance_options.show_account_age"
+msgstr "Всегда отображать возраст аккаунта возле сообщений присоединения"
+
+#. key path
+msgid "app.settings.pages.appearance.appearance_options.show_account_age_desc"
+msgstr "Если выключено, возраст аккаунта будет отображаться лишь для новых пользователей."
+
+#. key path
+msgid "app.settings.pages.appearance.colours.title"
+msgstr "Цвета"
+
+#. key path
+msgid "app.settings.pages.appearance.fonts.title"
+msgstr "Шрифты"
+
+#. key path
+msgid "app.settings.pages.appearance.emoji.title"
+msgstr "Эмодзи"
+
+#. key path
+msgid "app.settings.pages.appearance.advanced_options.title"
+msgstr "Расширенные настройки"
+
+#. key path
+msgid "app.settings.pages.account.title"
+msgstr "Мой аккаунт"
+
+#. key path
+msgid "app.settings.pages.account.change_field"
+msgstr "Изменить"
+
+#. key path
+msgid "app.settings.pages.account.two_factor_auth.description"
+msgstr "Добавьте дополнительный уровень безопасности, включив двухфакторную аутентификацию в своей учетной записи."
+
+#. key path
+msgid "app.settings.pages.account.two_factor_auth.title"
+msgstr "Двухфакторная аутентификация"
+
+#. key path
+msgid "app.settings.pages.account.two_factor_auth.add_auth"
+msgstr "Добавить аутентификатор"
+
+#. key path
+msgid "app.settings.pages.account.tooltip_ulid"
+msgstr "Это уникальный идентификатор пользователя для вашего аккаунта."
+
+#. key path
+msgid "app.settings.pages.account.2fa.remove_auth"
+msgstr "Удалить аутентификатор"
+
+#. key path
+msgid "app.settings.pages.account.2fa.add_auth"
+msgstr "Добавить аутентификатор"
+
+#. key path
+msgid "app.settings.pages.account.2fa.description"
+msgstr "Добавьте дополнительный уровень безопасности, включив двухфакторную аутентификацию для вашей учетной записи."
+
+#. key path
+msgid "app.settings.pages.account.2fa.title"
+msgstr "Двухфакторная аутентификация"
+
+#. key path
+msgid "app.settings.pages.account.2fa.generate_recovery"
+msgstr "Сгенерировать резервные коды"
+
+#. key path
+msgid "app.settings.pages.account.2fa.generate_recovery_long"
+msgstr "Будьте готовы к использованию 2FA, настроив метод восстановления."
+
+#. key path
+msgid "app.settings.pages.account.2fa.view_recovery_long"
+msgstr "Просмотр и скачивание кодов восстановления 2FA."
+
+#. key path
+msgid "app.settings.pages.account.2fa.two_factor_on"
+msgstr "Двухфакторная аутентификация сейчас включена."
+
+#. key path
+msgid "app.settings.pages.account.2fa.two_factor_off"
+msgstr "Вы не включили двухфакторную аутентификацию!"
+
+#. key path
+msgid "app.settings.pages.account.2fa.view_recovery"
+msgstr "Просмотреть резервные коды"
+
+#. key path
+msgid "app.settings.pages.account.unique_id"
+msgstr "Это уникальный идентификатор пользователя для вашего аккаунта."
+
+#. key path
+msgid "app.settings.pages.account.manage.title"
+msgstr "Управление аккаунтом"
+
+#. key path
+msgid "app.settings.pages.account.manage.description"
+msgstr "Отключите или удалите свою учетную запись в любое время. Любое из этих действий приведет к выходу из системы."
+
+#. key path
+msgid "app.settings.pages.account.manage.disable"
+msgstr "Отключить учетную запись"
+
+#. key path
+msgid "app.settings.pages.account.manage.delete"
+msgstr "Отметить аккаунт для удаления"
+
+#. key path
+msgid "app.settings.pages.account.manage.disable_description"
+msgstr "Вы не сможете получить доступ к своему аккаунту, пока не обратитесь в службу поддержки, однако ваши данные не будут удалены."
+
+#. key path
+msgid "app.settings.pages.account.manage.delete_description"
+msgstr "Ваша учетная запись и все ваши данные (включая сообщения и список друзей) будут помещены в очередь на удаление. На электронную почту будет отправлено письмо с подтверждением. Вы можете отменить свое решение в течение 7 дней, обратившись в службу поддержки."
+
+#. key path
+msgid "app.settings.pages.account.manage.delete_still_own_servers"
+msgstr "Невозможно удалить аккаунт, пока серверы не будут удалены или переданы"
+
+#. key path
+msgid "app.settings.pages.notifications.enable_outgoing_sound"
+msgstr "Воспроизводить звук отправки."
+
+#. key path
+msgid "app.settings.pages.notifications.descriptions.enable_desktop"
+msgstr "Если это включено, вы будете получать уведомления, пока ваше приложение открыто."
+
+#. key path
+msgid "app.settings.pages.notifications.descriptions.enable_push"
+msgstr "Если это включено, вы будете получать уведомления, когда вы не в сети."
+
+#. key path
+msgid "app.settings.pages.notifications.descriptions.enable_sound"
+msgstr "Включить звуки при входящих сообщениях."
+
+#. key path
+msgid "app.settings.pages.notifications.descriptions.enable_outgoing_sound"
+msgstr "Включить звуки при отправлении сообщения."
+
+#. key path
+msgid "app.settings.pages.notifications.title"
+msgstr "Уведомления"
+
+#. key path
+msgid "app.settings.pages.notifications.enable_desktop"
+msgstr "Включить уведомления на рабочем столе"
+
+#. key path
+msgid "app.settings.pages.notifications.enable_push"
+msgstr "Включить push-уведомления"
+
+#. key path
+msgid "app.settings.pages.notifications.enable_sound"
+msgstr "Производить звук при сообщении."
+
+#. key path
+msgid "app.settings.pages.notifications.sounds"
+msgstr "Звуки"
+
+#. key path
+msgid "app.settings.pages.notifications.push_notifications"
+msgstr "Push-уведомления"
+
+#. key path
+msgid "app.settings.pages.notifications.sound.outbound"
+msgstr "Сообщение отправлено"
+
+#. key path
+msgid "app.settings.pages.notifications.sound.message"
+msgstr "Сообщение получено"
+
+#. key path
+msgid "app.settings.pages.notifications.sound.call_join"
+msgstr "Пользователь присоединяется к звонку"
+
+#. key path
+msgid "app.settings.pages.notifications.sound.call_leave"
+msgstr "Пользователь покидает звонок"
+
+#. key path
+msgid "app.settings.pages.profile.title"
+msgstr "Профиль"
+
+#. key path
+msgid "app.settings.pages.profile.info"
+msgstr "Информация"
+
+#. key path
+msgid "app.settings.pages.profile.fetching"
+msgstr "Получаем ваш профиль…"
+
+#. key path
+msgid "app.settings.pages.profile.placeholder"
+msgstr "Напишите что-нибудь о себе…"
+
+#. key path
+msgid "app.settings.pages.profile.custom_background"
+msgstr "Пользовательский фон"
+
+#. key path
+msgid "app.settings.pages.profile.edit_background"
+msgstr "Изменить фон"
+
+#. key path
+msgid "app.settings.pages.profile.profile_picture"
+msgstr "Изображение профиля"
+
+#. key path
+msgid "app.settings.pages.profile.edit_profile"
+msgstr "Редактировать профиль"
+
+#. key path
+msgid "app.settings.pages.logOut"
+msgstr "Выйти"
+
+#. key path
+msgid "app.settings.pages.feedback.title"
+msgstr "Обратная связь"
+
+#. key path
+msgid "app.settings.pages.feedback.report"
+msgstr "О чем вы хотите сообщить?"
+
+#. key path
+msgid "app.settings.pages.feedback.bug"
+msgstr "Баг трекер"
+
+#. key path
+msgid "app.settings.pages.feedback.feature"
+msgstr "Предложение"
+
+#. key path
+msgid "app.settings.pages.feedback.other"
+msgstr "Другое"
+
+#. key path
+msgid "app.settings.pages.feedback.describe"
+msgstr "Опишите проблему."
+
+#. key path
+msgid "app.settings.pages.feedback.send"
+msgstr "Отправить отзыв"
+
+#. key path
+msgid "app.settings.pages.feedback.suggest"
+msgstr "Отправить предложение"
+
+#. key path
+msgid "app.settings.pages.feedback.suggest_desc"
+msgstr "Предложите новые функции для Круга гусляров в GitHub обсуждениях."
+
+#. key path
+msgid "app.settings.pages.feedback.issue"
+msgstr "Сообщить о проблеме"
+
+#. key path
+msgid "app.settings.pages.feedback.issue_desc"
+msgstr "Чтобы упростить нам сортировку проблем, вы можете создать обращение на GitHub."
+
+#. key path
+msgid "app.settings.pages.feedback.bug_desc"
+msgstr "Посмотреть активные в настоящее время отчеты об ошибках можно здесь."
+
+#. key path
+msgid "app.settings.pages.feedback.description"
+msgstr "Отправить отзыв"
+
+#. key path
+msgid "app.settings.pages.donate.title"
+msgstr "Пожертвовать"
+
+#. key path
+msgid "app.settings.pages.source_code"
+msgstr "Исходный код"
+
+#. key path
+msgid "app.settings.pages.language.title"
+msgstr "Язык"
+
+#. key path
+msgid "app.settings.pages.language.select"
+msgstr "Выберите язык"
+
+#. key path
+msgid "app.settings.pages.language.other"
+msgstr "Другие варианты языков"
+
+#. key path
+msgid "app.settings.pages.language.const"
+msgstr "Созданные языки"
+
+#. key path
+msgid "app.settings.pages.sync.title"
+msgstr "Синхронизация"
+
+#. key path
+msgid "app.settings.pages.sync.descriptions.locale"
+msgstr "Синхронизировать выбранный вами язык."
+
+#. key path
+msgid "app.settings.pages.sync.descriptions.appearance"
+msgstr "Синхронизирует настройки, такие как набор эмодзи и плотность сообщений."
+
+#. key path
+msgid "app.settings.pages.sync.descriptions.theme"
+msgstr "Синхронизировать выбранную вами тему, цветовой акцент и любой пользовательский CSS."
+
+#. key path
+msgid "app.settings.pages.sync.categories"
+msgstr "Категории синхронизации"
+
+#. key path
+msgid "app.settings.pages.sync.options"
+msgstr "Синхронизировать настройки"
+
+#. key path
+msgid "app.settings.pages.experiments.descriptions.servers"
+msgstr "Это позволит вам создавать сервера с каналами, приглашения, банить, модерировать их и другое."
+
+#. key path
+msgid "app.settings.pages.experiments.features"
+msgstr "Доступные функции"
+
+#. key path
+msgid "app.settings.pages.experiments.title"
+msgstr "Эксперименты"
+
+#. key path
+msgid "app.settings.pages.experiments.titles.servers"
+msgstr "Сервера"
+
+#. key path
+msgid "app.settings.pages.experiments.not_available"
+msgstr "Нет доступных экспериментов на данный момент."
+
+#. key path
+msgid "app.settings.pages.native.title"
+msgstr "Настройки приложения"
+
+#. key path
+msgid "app.settings.pages.bots.title"
+msgstr "Мои боты"
+
+#. key path
+msgid "app.settings.pages.bots.public_bot_tip"
+msgstr "Бот публичный. Любой пользователь может пригласить его."
+
+#. key path
+msgid "app.settings.pages.bots.create_bot"
+msgstr "Создать бота"
+
+#. key path
+msgid "app.settings.pages.bots.copy_invite"
+msgstr "Скопировать ссылку приглашения"
+
+#. key path
+msgid "app.settings.pages.bots.add"
+msgstr "Добавить бота"
+
+#. key path
+msgid "app.settings.pages.bots.token"
+msgstr "Токен"
+
+#. key path
+msgid "app.settings.pages.bots.private_bot_tip"
+msgstr "Бот приватный. Только вы можете пригласить его."
+
+#. key path
+msgid "app.settings.pages.bots.public_bot"
+msgstr "Публичный бот"
+
+#. key path
+msgid "app.settings.pages.bots.public_bot_desc"
+msgstr "Если включено, другие пользователи могут добавлять бота на сервера и в группы."
+
+#. key path
+msgid "app.settings.pages.bots.reserved"
+msgstr "Примечание: это поле зарезервировано для будущего обновления."
+
+#. key path
+msgid "app.settings.pages.bots.interactions_url"
+msgstr "URL взаимодействий"
+
+#. key path
+msgid "app.settings.pages.bots.unique_id"
+msgstr "Это уникальный идентификатор вашего бота. Это не токен бота."
+
+#. key path
+msgid "app.settings.pages.bots.profile"
+msgstr "Профиль бота"
+
+#. key path
+msgid "app.settings.pages.bots.reset_token"
+msgstr "Сбросить токен"
+
+#. key path
+msgid "app.settings.pages.audio.input_device"
+msgstr "Микрофон"
+
+#. key path
+msgid "app.settings.pages.audio.output_device"
+msgstr "Динамик / Гарнитура"
+
+#. key path
+msgid "app.settings.pages.audio.title"
+msgstr "Настройки голоса"
+
+#. key path
+msgid "app.settings.pages.audio.button_retry"
+msgstr "повторите"
+
+#. key path
+msgid "app.settings.pages.audio.tip_retry"
+msgstr "Вы не дали доступ к вашему микрофону. Пожалуйста, {{retryBtn}}."
+
+#. key path
+msgid "app.settings.pages.audio.device_label_NA"
+msgstr "Н/Д"
+
+#. key path
+msgid "app.settings.pages.audio.tip_grant_permission"
+msgstr "Вам нужно предоставить разрешение на доступ к настройкам звука."
+
+#. key path
+msgid "app.settings.pages.audio.button_grant"
+msgstr "Дать разрешение"
+
+#. key path
+msgid "app.settings.pages.theme_shop.title"
+msgstr "Магазин тем"
+
+#. key path
+msgid "app.settings.pages.theme_shop.description"
+msgstr "Просмотрите сотни тем, которые создало и курирует сообщество."
+
+#. key path
+msgid "app.settings.pages.theme_shop.search"
+msgstr "Искать темы…"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.saved"
+msgstr "Сохранено"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.manage"
+msgstr "Управлять сохранениями"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.default"
+msgstr "Стандартные темы"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.new"
+msgstr "Новинки недели"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.viewall"
+msgstr "Посмотреть все"
+
+#. key path
+msgid "app.settings.pages.theme_shop.category.highest"
+msgstr "Наивысший рейтинг"
+
+#. key path
+msgid "app.settings.pages.theme_shop.active"
+msgstr "Сейчас активна"
+
+#. key path
+msgid "app.settings.pages.theme_shop.use"
+msgstr "Использовать тему"
+
+#. key path
+msgid "app.settings.pages.theme_shop.by"
+msgstr "от"
+
+#. key path
+msgid "app.settings.pages.plugins.title"
+msgstr "Плагины"
+
+#. key path
+msgid "app.settings.pages.plugins.wip"
+msgstr "Предупреждение: эта функция находится в разработке."
+
+#. key path
+msgid "app.settings.pages.plugins.delete_plugin"
+msgstr "Удалить"
+
+#. key path
+msgid "app.settings.pages.plugins.no_plugins"
+msgstr "Плагины сейчас не установлены."
+
+#. key path
+msgid "app.settings.pages.accessibility.title"
+msgstr "Специальные возможности"
+
+#. key path
+msgid "app.settings.pages.accessibility.reduced_motion"
+msgstr "Уменьшенное движение"
+
+#. key path
+msgid "app.settings.pages.accessibility.descriptions.reduced_motion"
+msgstr "Если это включено, анимации и эффекты движения не будут проигрываться вовсе, или с меньшей скоростью."
+
+#. key path
+msgid "app.settings.pages.keybinds.title"
+msgstr "Горячие клавиши"
+
+#. key path
+msgid "app.settings.pages.keybinds.description"
+msgstr "Просмотр и установка горячих клавиш"
+
+#. key path
+msgid "app.settings.pages.keybinds.add_keybind"
+msgstr "Добавить горячую клавишу"
+
+#. key path
+msgid "app.settings.pages.keybinds.edit_keybind"
+msgstr "Изменить горячую клавишу"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_channel_up.title"
+msgstr "Переход в предыдущий канал"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_channel_up.description"
+msgstr "Перенаправляет в предыдущий канал."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_channel_down.description"
+msgstr "Перенаправляет в следующий канал."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_channel_down.title"
+msgstr "Переход в следующий канал"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_server_down.description"
+msgstr "Перенаправляет в следующий сервер."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_server_down.title"
+msgstr "Переход в следующий сервер"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_edit_previous_message.description"
+msgstr "Редактирует последнее отправленное сообщение среди прогруженных в текущем канале."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_edit_previous_message.title"
+msgstr "Изменить последнее сообщение"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_mark_channel_read.description"
+msgstr "Пометить текущий канал как прочитанный."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_mark_channel_read.title"
+msgstr "Отметить канал как прочитанный"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.developer_toggle_all_experiments.description"
+msgstr "Это включит / выключит все эксперименты сразу."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.developer_toggle_all_experiments.title"
+msgstr "Переключить режим безопасного экспериментирования"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_server_up.title"
+msgstr "Переход в предыдущий сервер"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_server_up.description"
+msgstr "Перенаправляет в предыдущий сервер."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_up.title"
+msgstr "Предыдущий выбор автозаполнения"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_up.description"
+msgstr "Переместить выделение автозаполнения на предыдущее."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_submit.title"
+msgstr "Подтвердить ввод"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_submit.description"
+msgstr "Расширенное сочетание клавиш, которое обычно используется для отправки текущего ввода.\nЭто может включать в себя отправку сообщений, редактирование сообщений, поиск и т.д."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_cancel.title"
+msgstr "Отменить ввод"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_cancel.description"
+msgstr "Расширенное сочетание клавиш, которое обычно используется для отмены текущего ввода.\nЭто может включать в себя отмену редактирования сообщения, удаление изображения из очереди или аналогичные сценарии."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_force_submit.title"
+msgstr "Принудительно подтвердить ввод"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.input_force_submit.description"
+msgstr "Расширенное сочетание клавиш, которое обычно используется для принудительной отправки текущего ввода, игнорируя некоторые проверки или другие сочетания клавиш.\nЭто может включать в себя отправку сообщения вместо подтверждения выбора автозаполнения."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_scroll_to_bottom.title"
+msgstr "Переход к последнему сообщению"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.messaging_scroll_to_bottom.description"
+msgstr "Прокручивает окно сообщений вниз."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_down.title"
+msgstr "Следующий выбор автозаполнения"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_down.description"
+msgstr "Переместить выбор автозаполнения на следующий."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_select.title"
+msgstr "Подтвердить выбор автозаполнения"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.auto_complete_select.description"
+msgstr "Подтвердить текущий выбор автозаполнения."
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_previous_context.title"
+msgstr "Перейти к предыдущему контексту"
+
+#. key path
+msgid "app.settings.pages.keybinds.action.navigate_previous_context.description"
+msgstr "Расширенное сочетание клавиш, которое обычно используется для закрытия страницы настроек, модального или всплывающего окна и возврата к предыдущему контексту."
+
+#. key path
+msgid "app.settings.pages.keybinds.search"
+msgstr "Поиск горячих клавиш…"
+
+#. key path
+msgid "app.settings.pages.keybinds.remove_keybind"
+msgstr "Удалить горячую клавишу"
+
+#. key path
+msgid "app.settings.pages.keybinds.reset_keybind"
+msgstr "Сбросить назначение на {{keybind}}"
+
+#. key path
+msgid "app.settings.pages.keybinds.category.navigation"
+msgstr "Навигация"
+
+#. key path
+msgid "app.settings.pages.keybinds.category.messaging"
+msgstr "Переписка"
+
+#. key path
+msgid "app.settings.pages.keybinds.category.advanced"
+msgstr "Расширенные"
+
+#. key path
+msgid "app.settings.title"
+msgstr "Настройки"
+
+#. key path
+msgid "app.settings.channel_pages.overview.name"
+msgstr "Название канала"
+
+#. key path
+msgid "app.settings.channel_pages.overview.description"
+msgstr "Описание канала"
+
+#. key path
+msgid "app.settings.channel_pages.overview.title"
+msgstr "Обзор"
+
+#. key path
+msgid "app.settings.channel_pages.overview.icon"
+msgstr "Значок группы"
+
+#. key path
+msgid "app.settings.channel_pages.permissions.title"
+msgstr "Права"
+
+#. key path
+msgid "app.settings.channel_pages.webhooks.title"
+msgstr "Вебхуки"
+
+#. key path
+msgid "app.settings.categories.client_settings"
+msgstr "Настройки клиента"
+
+#. key path
+msgid "app.settings.categories.user_settings"
+msgstr "Настройки пользователя"
+
+#. key path
+msgid "app.settings.categories.danger_zone"
+msgstr "Опасная зона"
+
+#. key path
+msgid "app.settings.tips.languages.a"
+msgstr "Отсутствует нужный вам язык?"
+
+#. key path
+msgid "app.settings.tips.languages.b"
+msgstr "Помогите нам, приняв участие в переводе."
+
+#. key path
+msgid "app.settings.tips.sessions.b"
+msgstr "защитите свой аккаунт, сменив пароль и включив 2FA."
+
+#. key path
+msgid "app.settings.tips.sessions.a"
+msgstr "Если вы видите в списке неизвестную сессию,"
+
+#. key path
+msgid "app.settings.tips.account.b"
+msgstr "Перейдите в настройки своего профиля."
+
+#. key path
+msgid "app.settings.tips.account.a"
+msgstr "Хотите настроить свой публичный профиль?"
+
+#. key path
+msgid "app.settings.actions.upload"
+msgstr "Загрузить"
+
+#. key path
+msgid "app.settings.actions.remove"
+msgstr "Удалить"
+
+#. key path
+msgid "app.settings.actions.max_filesize"
+msgstr "(макс. {{filesize}})"
+
+#. key path
+msgid "app.settings.actions.edit"
+msgstr "Редактировать {{name}}"
+
+#. key path
+msgid "app.settings.server_pages.overview.name"
+msgstr "Название сервера"
+
+#. key path
+msgid "app.settings.server_pages.overview.title"
+msgstr "Обзор"
+
+#. key path
+msgid "app.settings.server_pages.overview.description"
+msgstr "Описание канала"
+
+#. key path
+msgid "app.settings.server_pages.overview.system_messages"
+msgstr "Канал системных сообщений"
+
+#. key path
+msgid "app.settings.server_pages.members.title"
+msgstr "Участники"
+
+#. key path
+msgid "app.settings.server_pages.invites.title"
+msgstr "Приглашения"
+
+#. key path
+msgid "app.settings.server_pages.invites.revoke"
+msgstr "Отменить"
+
+#. key path
+msgid "app.settings.server_pages.invites.channel"
+msgstr "Канал"
+
+#. key path
+msgid "app.settings.server_pages.invites.invitor"
+msgstr "Пригласил"
+
+#. key path
+msgid "app.settings.server_pages.invites.code"
+msgstr "Код приглашения"
+
+#. key path
+msgid "app.settings.server_pages.bans.title"
+msgstr "Баны"
+
+#. key path
+msgid "app.settings.server_pages.bans.no_reason"
+msgstr "Причина бана не указана."
+
+#. key path
+msgid "app.settings.server_pages.bans.user"
+msgstr "Пользователь"
+
+#. key path
+msgid "app.settings.server_pages.bans.reason"
+msgstr "Причина бана"
+
+#. key path
+msgid "app.settings.server_pages.bans.revoke"
+msgstr "Снять"
+
+#. key path
+msgid "app.settings.server_pages.roles.title"
+msgstr "Роли"
+
+#. key path
+msgid "app.settings.server_pages.categories.title"
+msgstr "Категории"
+
+#. key path
+msgid "app.settings.server_pages.management.title"
+msgstr "Управление пользователями"
+
+#. key path
+msgid "app.settings.server_pages.customisation.title"
+msgstr "Кастомизация"
+
+#. key path
+msgid "app.settings.server_pages.emojis.title"
+msgstr "Эмодзи"
+
+#. key path
+msgid "app.settings.server_pages.emojis.upload"
+msgstr "Загрузить эмодзи"
+
+#. key path
+msgid "app.settings.permissions.default_role"
+msgstr "По умолчанию"
+
+#. key path
+msgid "app.settings.permissions.channel"
+msgstr "Права канала"
+
+#. key path
+msgid "app.settings.permissions.server"
+msgstr "Права сервера"
+
+#. key path
+msgid "app.settings.permissions.create_role"
+msgstr "Создать новую роль"
+
+#. key path
+msgid "app.settings.permissions.role_name"
+msgstr "Название роли"
+
+#. key path
+msgid "app.settings.permissions.role_colour"
+msgstr "Цвет роли"
+
+#. key path
+msgid "app.settings.permissions.role_options"
+msgstr "Настройки роли"
+
+#. key path
+msgid "app.settings.permissions.delete_role"
+msgstr "Удалить роль"
+
+#. key path
+msgid "app.settings.permissions.role_ranking"
+msgstr "Приоритет роли"
+
+#. key path
+msgid "app.settings.permissions.hoist_role"
+msgstr "Поднять роль"
+
+#. key path
+msgid "app.settings.permissions.hoist_desc"
+msgstr "Отображать эту роль выше остальных."
+
+#. key path
+msgid "app.settings.permissions.title"
+msgstr "Права для {{role}}"
+
+#. key path
+msgid "app.settings.permissions.edit_title"
+msgstr "Редактировать права"
+
+#. key path
+msgid "app.context_menu.remove_member"
+msgstr "Удалить из группы"
+
+#. key path
+msgid "app.context_menu.cancel_message"
+msgstr "Отменить отправку"
+
+#. key path
+msgid "app.context_menu.edit_message"
+msgstr "Редактировать сообщение"
+
+#. key path
+msgid "app.context_menu.copy_mid"
+msgstr "Скопировать ID сообщения"
+
+#. key path
+msgid "app.context_menu.message_user"
+msgstr "Сообщение"
+
+#. key path
+msgid "app.context_menu.mark_as_read"
+msgstr "Отметить как прочитанное"
+
+#. key path
+msgid "app.context_menu.remove_friend"
+msgstr "Удалить из друзей"
+
+#. key path
+msgid "app.context_menu.copy_text"
+msgstr "Скопировать текст"
+
+#. key path
+msgid "app.context_menu.custom_status"
+msgstr "Пользовательский статус"
+
+#. key path
+msgid "app.context_menu.clear_status"
+msgstr "Очистить статус"
+
+#. key path
+msgid "app.context_menu.copy_id"
+msgstr "Скопировать ID"
+
+#. key path
+msgid "app.context_menu.copy_cid"
+msgstr "Скопировать ID канала"
+
+#. key path
+msgid "app.context_menu.retry_message"
+msgstr "Повторить отправку"
+
+#. key path
+msgid "app.context_menu.quote_message"
+msgstr "Цитировать сообщение"
+
+#. key path
+msgid "app.context_menu.save_video"
+msgstr "Сохранить видео"
+
+#. key path
+msgid "app.context_menu.copy_link"
+msgstr "Скопировать ссылку"
+
+#. key path
+msgid "app.context_menu.open_link"
+msgstr "Открыть ссылку"
+
+#. key path
+msgid "app.context_menu.block_user"
+msgstr "Заблокировать пользователя"
+
+#. key path
+msgid "app.context_menu.unblock_user"
+msgstr "Разблокировать пользователя"
+
+#. key path
+msgid "app.context_menu.cancel_friend"
+msgstr "Отменить заявку в друзья"
+
+#. key path
+msgid "app.context_menu.save_file"
+msgstr "Сохранить файл"
+
+#. key path
+msgid "app.context_menu.add_friend"
+msgstr "Добавить в друзья"
+
+#. key path
+msgid "app.context_menu.set_custom_status"
+msgstr "Установить пользовательский статус"
+
+#. key path
+msgid "app.context_menu.copy_uid"
+msgstr "Скопировать ID пользователя"
+
+#. key path
+msgid "app.context_menu.mention"
+msgstr "Упомянуть"
+
+#. key path
+msgid "app.context_menu.delete_message"
+msgstr "Удалить сообщение"
+
+#. key path
+msgid "app.context_menu.open_file"
+msgstr "Открыть файл"
+
+#. key path
+msgid "app.context_menu.open_image"
+msgstr "Открыть изображение"
+
+#. key path
+msgid "app.context_menu.save_image"
+msgstr "Сохранить изображение"
+
+#. key path
+msgid "app.context_menu.open_video"
+msgstr "Открыть видео"
+
+#. key path
+msgid "app.context_menu.open_channel_settings"
+msgstr "Настройки канала"
+
+#. key path
+msgid "app.context_menu.open_group_settings"
+msgstr "Настройки группы"
+
+#. key path
+msgid "app.context_menu.copy_selection"
+msgstr "Скопировать выделенное"
+
+#. key path
+msgid "app.context_menu.copy_sid"
+msgstr "Скопировать ID сервера"
+
+#. key path
+msgid "app.context_menu.leave_server"
+msgstr "Покинуть сервер"
+
+#. key path
+msgid "app.context_menu.create_invite"
+msgstr "Создать приглашение"
+
+#. key path
+msgid "app.context_menu.leave_group"
+msgstr "Покинуть группу"
+
+#. key path
+msgid "app.context_menu.close_dm"
+msgstr "Закрыть ЛС"
+
+#. key path
+msgid "app.context_menu.delete_server"
+msgstr "Удалить сервер"
+
+#. key path
+msgid "app.context_menu.delete_channel"
+msgstr "Удалить канал"
+
+#. key path
+msgid "app.context_menu.create_channel"
+msgstr "Создать канал"
+
+#. key path
+msgid "app.context_menu.open_server_settings"
+msgstr "Настройки сервера"
+
+#. key path
+msgid "app.context_menu.view_profile"
+msgstr "Просмотреть профиль"
+
+#. key path
+msgid "app.context_menu.kick_member"
+msgstr "Выгнать участника"
+
+#. key path
+msgid "app.context_menu.ban_member"
+msgstr "Забанить участника"
+
+#. key path
+msgid "app.context_menu.reply_message"
+msgstr "Ответить"
+
+#. key path
+msgid "app.context_menu.open_notification_options"
+msgstr "Настройки уведомлений"
+
+#. key path
+msgid "app.context_menu.copy_message_link"
+msgstr "Скопировать ссылку сообщения"
+
+#. key path
+msgid "app.context_menu.edit_identity"
+msgstr "Изменить личность"
+
+#. key path
+msgid "app.context_menu.create_category"
+msgstr "Создать категорию"
+
+#. key path
+msgid "app.context_menu.mark_unread"
+msgstr "Пометить как непрочитанное"
+
+#. key path
+msgid "app.context_menu.make_owner"
+msgstr "Сделать владельцем группы"
+
+#. key path
+msgid "app.context_menu.report_user"
+msgstr "Пожаловаться на пользователя"
+
+#. key path
+msgid "app.context_menu.report_message"
+msgstr "Пожаловаться на сообщение"
+
+#. key path
+msgid "app.context_menu.report_server"
+msgstr "Пожаловаться на сервер"
+
+#. key path
+msgid "app.context_menu.accept_friend"
+msgstr "Принять заявку в друзья"
+
+#. key path
+msgid "app.context_menu.reject_friend"
+msgstr "Отклонить заявку в друзья"
+
+#. key path
+msgid "app.context_menu.edit_your_identity"
+msgstr "Редактировать информацию о себе"
+
+#. key path
+msgid "app.special.friends.blocked"
+msgstr "Заблокированный"
+
+#. key path
+msgid "app.special.friends.incoming"
+msgstr "Входящий запрос дружбы."
+
+#. key path
+msgid "app.special.friends.outgoing"
+msgstr "Исходящий запрос дружбы."
+
+#. key path
+msgid "app.special.friends.pending"
+msgstr "Ожидающие запросы"
+
+#. key path
+msgid "app.special.friends.nobody"
+msgstr "Тут никого нет!"
+
+#. key path
+msgid "app.special.friends.from.several"
+msgstr "От {{userlist}} и {{count}} более…"
+
+#. key path
+msgid "app.special.friends.from.single"
+msgstr "От {{user}}"
+
+#. key path
+msgid "app.special.friends.from.multiple"
+msgstr "От {{userlist}} и {{user}}"
+
+#. key path
+msgid "app.special.friends.sent"
+msgstr "Исходящий"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_leave"
+msgstr "Покинуть {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_leave_long"
+msgstr "Вы не сможете присоединиться снова, пока вас не пригласят повторно."
+
+#. key path
+msgid "app.special.modals.prompt.create_invite_generate"
+msgstr "Создание приглашения…"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_close_dm"
+msgstr "Закрыть переписку с {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_delete"
+msgstr "Удалить {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_delete_long"
+msgstr "После удаления, пути назад не будет."
+
+#. key path
+msgid "app.special.modals.prompt.confirm_close_dm_long"
+msgstr "Вы можете снова открыть её позже, но она исчезнет с обеих сторон."
+
+#. key path
+msgid "app.special.modals.prompt.create_invite_created"
+msgstr "Ваш новый код приглашения:"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_delete_message_long"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_kick"
+msgstr "Вы уверены, что хотите выгнать {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_ban_reason"
+msgstr "Причина бана"
+
+#. key path
+msgid "app.special.modals.prompt.confirm_ban"
+msgstr "Вы собираетесь забанить {{name}}"
+
+#. key path
+msgid "app.special.modals.prompt.unfriend_user"
+msgstr "Удалить {{name}} из друзей?"
+
+#. key path
+msgid "app.special.modals.prompt.block_user"
+msgstr "Заблокировать {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.block_user_long"
+msgstr "Вы уверены, что хотите заблокировать {{name}}? Он так же будет удалён из списка друзей."
+
+#. key path
+msgid "app.special.modals.prompt.unfriend_user_long"
+msgstr "Вы не сможете с ними разговаривать до тех пор, пока не добавите их обратно."
+
+#. key path
+msgid "app.special.modals.prompt.members_not_notified"
+msgstr "Другие участники не будут оповещены"
+
+#. key path
+msgid "app.special.modals.prompt.silent_leave"
+msgstr "Незаметно выйти"
+
+#. key path
+msgid "app.special.modals.prompt.reset_bot_token"
+msgstr "Сбросить токен у {{name}}?"
+
+#. key path
+msgid "app.special.modals.prompt.reset_bot_token_long"
+msgstr "Это сделает текущий токен недействительным и прекратит работу всех запущенных ботов."
+
+#. key path
+msgid "app.special.modals.account.change.username"
+msgstr "Изменить имя пользователя"
+
+#. key path
+msgid "app.special.modals.account.change.password"
+msgstr "Изменить свой пароль"
+
+#. key path
+msgid "app.special.modals.account.change.email"
+msgstr "Изменить электронную почту"
+
+#. key path
+msgid "app.special.modals.account.change.display_name"
+msgstr "Изменить отображаемое имя"
+
+#. key path
+msgid "app.special.modals.account.failed"
+msgstr "Не удалось изменить!"
+
+#. key path
+msgid "app.special.modals.clipboard.unavailable"
+msgstr "Буфер обмена недоступен!"
+
+#. key path
+msgid "app.special.modals.clipboard.https"
+msgstr "В настоящее время вы не находитесь в контексте HTTPS."
+
+#. key path
+msgid "app.special.modals.clipboard.copy"
+msgstr "Ручное копирование:"
+
+#. key path
+msgid "app.special.modals.actions.cancel"
+msgstr "Отменить"
+
+#. key path
+msgid "app.special.modals.actions.reload"
+msgstr "Перезагрузить приложение"
+
+#. key path
+msgid "app.special.modals.actions.save"
+msgstr "Сохранить"
+
+#. key path
+msgid "app.special.modals.actions.send_email"
+msgstr "Отправить письмо"
+
+#. key path
+msgid "app.special.modals.actions.continue"
+msgstr "Продолжить"
+
+#. key path
+msgid "app.special.modals.actions.ok"
+msgstr "Ок"
+
+#. key path
+msgid "app.special.modals.actions.close"
+msgstr "Закрыть"
+
+#. key path
+msgid "app.special.modals.actions.update"
+msgstr "Обновить"
+
+#. key path
+msgid "app.special.modals.actions.preview"
+msgstr "Предварительный просмотр"
+
+#. key path
+msgid "app.special.modals.actions.kick"
+msgstr "Выгнать"
+
+#. key path
+msgid "app.special.modals.actions.ban"
+msgstr "Забанить"
+
+#. key path
+msgid "app.special.modals.actions.delete"
+msgstr "Удалить"
+
+#. key path
+msgid "app.special.modals.actions.create"
+msgstr "Создать"
+
+#. key path
+msgid "app.special.modals.actions.remove"
+msgstr "Удалить"
+
+#. key path
+msgid "app.special.modals.actions.leave"
+msgstr "Покинуть"
+
+#. key path
+msgid "app.special.modals.actions.block"
+msgstr "Заблокировать"
+
+#. key path
+msgid "app.special.modals.actions.reveal"
+msgstr "Показать"
+
+#. key path
+msgid "app.special.modals.actions.back"
+msgstr "Назад"
+
+#. key path
+msgid "app.special.modals.actions.hide"
+msgstr "Спрятать"
+
+#. key path
+msgid "app.special.modals.actions.edit"
+msgstr "Редактировать"
+
+#. key path
+msgid "app.special.modals.actions.done"
+msgstr "Готово"
+
+#. key path
+msgid "app.special.modals.actions.reset"
+msgstr "Сбросить"
+
+#. key path
+msgid "app.special.modals.actions.confirm"
+msgstr "Подтвердить"
+
+#. key path
+msgid "app.special.modals.actions.report"
+msgstr "Пожаловаться"
+
+#. key path
+msgid "app.special.modals.actions.dont_block"
+msgstr "Не блокировать"
+
+#. key path
+msgid "app.special.modals.error"
+msgstr "Произошла ошибка!"
+
+#. key path
+msgid "app.special.modals.signed_out"
+msgstr "Вы вышли из аккаунта!"
+
+#. key path
+msgid "app.special.modals.onboarding.welcome"
+msgstr "Добро пожаловать в"
+
+#. key path
+msgid "app.special.modals.onboarding.pick"
+msgstr "Выберите имя пользователя, по которому люди смогут находить вас. Позже его можно будет изменить в настройках."
+
+#. key path
+msgid "app.special.modals.external_links.title"
+msgstr "Внешние ссылки могут быть опасными!"
+
+#. key path
+msgid "app.special.modals.external_links.short"
+msgstr "Вы уверены что хотите перейти:"
+
+#. key path
+msgid "app.special.modals.external_links.trust_domain"
+msgstr "Доверять этому сайту"
+
+#. key path
+msgid "app.special.modals.token_reveal"
+msgstr "Токен {{name}}"
+
+#. key path
+msgid "app.special.modals.sessions.title"
+msgstr "Вы точно хотите очистить все сессии?"
+
+#. key path
+msgid "app.special.modals.sessions.accept"
+msgstr "Удалить все сессии"
+
+#. key path
+msgid "app.special.modals.sessions.short"
+msgstr "Вы не можете отменить это действие."
+
+#. key path
+msgid "app.special.modals.confirm"
+msgstr "Подтвердить действие"
+
+#. key path
+msgid "app.special.modals.mfa.recovery_codes"
+msgstr "Ваши резервные коды"
+
+#. key path
+msgid "app.special.modals.mfa.confirm"
+msgstr "Пожалуйста, подтвердите это действие выбранным методом."
+
+#. key path
+msgid "app.special.modals.mfa.enter_code"
+msgstr "Введите код"
+
+#. key path
+msgid "app.special.modals.mfa.enable_totp"
+msgstr "Включить приложение для аутентификации"
+
+#. key path
+msgid "app.special.modals.mfa.select_method"
+msgstr "Пожалуйста, выберите метод аутентификации вашего запроса."
+
+#. key path
+msgid "app.special.modals.mfa.save_codes"
+msgstr "Пожалуйста, сохраните их в безопасном месте."
+
+#. key path
+msgid "app.special.modals.mfa.prompt_totp"
+msgstr "Пожалуйста, отсканируйте или используйте токен ниже в приложении для аутентификации."
+
+#. key path
+msgid "app.special.modals.out_of_date.title"
+msgstr "Ваш клиент устарел!"
+
+#. key path
+msgid "app.special.modals.out_of_date.attempting"
+msgstr "Попытка обновить…"
+
+#. key path
+msgid "app.special.modals.out_of_date.ignore"
+msgstr "Игнорировать обновление"
+
+#. key path
+msgid "app.special.modals.out_of_date.description"
+msgstr "Его необходимо обновить, чтобы он работал с последними изменениями."
+
+#. key path
+msgid "app.special.modals.out_of_date.version"
+msgstr "Версия вашего клиента {{client}}, в то время как сервер требует {{server}}."
+
+#. key path
+msgid "app.special.modals.changelogs.title"
+msgstr "Список изменений"
+
+#. key path
+msgid "app.special.modals.changelogs.description"
+msgstr "Читайте об обновлениях Круга гусляров."
+
+#. key path
+msgid "app.special.modals.changelogs.older"
+msgstr "Прошлые обновления"
+
+#. key path
+msgid "app.special.modals.report.additional_context"
+msgstr "Дополнительная информация"
+
+#. key path
+msgid "app.special.modals.report.no_reason"
+msgstr "Причина не указана / другая причина"
+
+#. key path
+msgid "app.special.modals.report.content_reason.Illegal"
+msgstr "Содержимое нарушает один или несколько законов"
+
+#. key path
+msgid "app.special.modals.report.content_reason.SpamAbuse"
+msgstr "Это спам или злоупотребление платформой"
+
+#. key path
+msgid "app.special.modals.report.content_reason.PromotesHarm"
+msgstr "Содержимое способствует причинению вреда себе или другим"
+
+#. key path
+msgid "app.special.modals.report.content_reason.Malware"
+msgstr "Это вредоносное ПО"
+
+#. key path
+msgid "app.special.modals.report.content_reason.Harassment"
+msgstr "Это домогательство или оскорбление, нацеленное на другого пользователя"
+
+#. key path
+msgid "app.special.modals.report.reason"
+msgstr "Причина"
+
+#. key path
+msgid "app.special.modals.report.by_name"
+msgstr "Жалоба на {{name}}"
+
+#. key path
+msgid "app.special.modals.report.message"
+msgstr "Жалоба"
+
+#. key path
+msgid "app.special.modals.report.user_reason.InappropriateProfile"
+msgstr "Профиль пользователя неприемлем для общей аудитории"
+
+#. key path
+msgid "app.special.modals.report.user_reason.Impersonation"
+msgstr "Этот пользователь выдаёт себя за кого-то другого"
+
+#. key path
+msgid "app.special.modals.report.user_reason.BanEvasion"
+msgstr "Этот пользователь обходит блокировку"
+
+#. key path
+msgid "app.special.modals.report.user_reason.Underage"
+msgstr "Этот пользователь недостаточно взрослый, чтобы иметь аккаунт"
+
+#. key path
+msgid "app.special.modals.report.user_reason.SpamAbuse"
+msgstr "Пользователь рассылает спам или иным способом злоупотребляет платформой"
+
+#. key path
+msgid "app.special.modals.report.thank_you"
+msgstr "Спасибо за то, что делаете Круг гусляров безопаснее. Мы рассмотрим вашу жалобу как можно скорее."
+
+#. key path
+msgid "app.special.modals.report.block_user"
+msgstr "Хотите ли вы заблокировать данного пользователя?"
+
+#. key path
+msgid "app.special.modals.report.reported"
+msgstr "Отправлено"
+
+#. key path
+msgid "app.special.modals.edit_keybind.placeholder"
+msgstr "Нажмите клавиши для записи"
+
+#. key path
+msgid "app.special.modals.edit_keybind.title"
+msgstr "Изменить клавишу для {{action}}"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.translator"
+msgstr "Переводчик"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.early_adopter"
+msgstr "Первопроходец"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.supporter"
+msgstr "Поддерживающий"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.responsible_disclosure"
+msgstr "Ответственно раскрыты проблемы безопасности"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.founder"
+msgstr "Основатель"
+
+#. key path
+msgid "app.special.popovers.user_profile.badges.moderation"
+msgstr "Модерация платформы"
+
+#. key path
+msgid "app.special.popovers.user_profile.profile"
+msgstr "Профиль"
+
+#. key path
+msgid "app.special.popovers.user_profile.mutual_friends"
+msgstr "Общие друзья"
+
+#. key path
+msgid "app.special.popovers.user_profile.mutual_groups"
+msgstr "Общие группы"
+
+#. key path
+msgid "app.special.popovers.user_profile.no_users"
+msgstr "Нет общих друзей"
+
+#. key path
+msgid "app.special.popovers.user_profile.no_groups"
+msgstr "Нет общих групп"
+
+#. key path
+msgid "app.special.popovers.user_profile.empty"
+msgstr "Здесь пусто…"
+
+#. key path
+msgid "app.special.popovers.user_profile.sub.connections"
+msgstr "Подключения"
+
+#. key path
+msgid "app.special.popovers.user_profile.sub.information"
+msgstr "Информация"
+
+#. key path
+msgid "app.special.popovers.user_profile.sub.badges"
+msgstr "Значки"
+
+#. key path
+msgid "app.special.popovers.user_profile.mutual_servers"
+msgstr "Общие сервера"
+
+#. key path
+msgid "app.special.popovers.user_profile.no_servers"
+msgstr "Нет общих серверов"
+
+#. key path
+msgid "app.special.popovers.user_picker.select"
+msgstr "Выберите друзей, которых хотите добавить."
+
+#. key path
+msgid "app.special.popovers.create_bot.title"
+msgstr "Создать нового бота"
+
+#. key path
+msgid "app.special.popovers.create_bot.failed"
+msgstr "Не удалось создать бота!"
+
+#. key path
+msgid "app.special.popovers.server_identity.title"
+msgstr "Изменить личность на {{server}}"
+
+#. key path
+msgid "app.special.popovers.server_identity.nickname"
+msgstr "Никнейм"
+
+#. key path
+msgid "app.special.popovers.server_identity.avatar"
+msgstr "Аватар"
+
+#. key path
+msgid "app.special.requires_online"
+msgstr "Вы должны быть в сети, чтобы просмотреть это."
+
+#. key path
+msgid "app.special.status.reconnecting"
+msgstr "Переподключение…"
+
+#. key path
+msgid "app.special.status.offline"
+msgstr "Не в сети."
+
+#. key path
+msgid "app.special.status.disconnected"
+msgstr "Отключён."
+
+#. key path
+msgid "app.special.status.connecting"
+msgstr "Подключение…"
+
+#. key path
+msgid "app.special.copy_username"
+msgstr "Нажмите для копирования имени"
+
+#. key path
+msgid "app.special.copy"
+msgstr "Нажмите, чтобы скопировать"
+
+#. key path
+msgid "app.special.invite.login"
+msgstr "Войти в Круг гусляров"
+
+#. key path
+msgid "app.special.invite.accept"
+msgstr "Принять приглашение"
+
+#. key path
+msgid "app.special.invite.invited_by"
+msgstr "Приглашение от {{user}}"
+
+#. key path
+msgid "app.special.invite.user_count"
+msgstr "{{member_count}} пользователей"
+
+#. key path
+msgid "app.special.invite.invalid"
+msgstr "Неверное приглашение!"
+
+#. key path
+msgid "app.special.invite.invalid_desc"
+msgstr "Приглашение не существует или у вас нет права присоединиться."
+
+#. key path
+msgid "app.special.server-badges.official"
+msgstr "Официальный сервер"
+
+#. key path
+msgid "app.special.server-badges.verified"
+msgstr "Проверенный сервер"
+
+#. key path
+msgid "app.status.idle"
+msgstr "Неактивен"
+
+#. key path
+msgid "app.status.invisible"
+msgstr "Невидимый"
+
+#. key path
+msgid "app.status.online"
+msgstr "В сети"
+
+#. key path
+msgid "app.status.busy"
+msgstr "Не беспокоить"
+
+#. key path
+msgid "app.status.offline"
+msgstr "Не в сети"
+
+#. key path
+msgid "app.status.reconnect"
+msgstr "Переподключение"
+
+#. key path
+msgid "app.status.focus"
+msgstr "Сосредоточен"
+
+#. key path
+msgid "app.permissions.required"
+msgstr "Требуются разрешения"
+
+#. key path
+msgid "app.home.donate"
+msgstr "Поддержите Круг гусляров"
+
+#. key path
+msgid "app.home.feedback"
+msgstr "Оставьте отзыв о Круге гусляров"
+
+#. key path
+msgid "app.home.settings"
+msgstr "Открыть настройки"
+
+#. key path
+msgid "app.home.social"
+msgstr "Найдите сервера и ботов"
+
+#. key path
+msgid "app.home.join-testers"
+msgstr "Присоединяйтесь к серверу тестировщиков"
+
+#. key path
+msgid "app.home.settings-tooltip"
+msgstr "Также вы можете кликнуть правой кнопкой мыши по иконке пользователя в левом верхнем углу, или кликнуть левой кнопкой мыши, если вы на домашней странице."
+
+#. key path
+msgid "app.home.goto-testers"
+msgstr "Перейти на сервер тестировщиков"
+
+#. key path
+msgid "app.home.directs"
+msgstr "Личные сообщения"
+
+#. key path
+msgid "app.home.join-testers_desc"
+msgstr "Вы можете сообщать об ошибках и обсуждать идеи с нами прямо здесь."
+
+#. key path
+msgid "app.home.goto-testers_desc"
+msgstr "Вы можете сообщать об ошибках и обсуждать идеи с нами прямо здесь."
+
+#. key path
+msgid "app.home.donate_desc"
+msgstr "Поддержите проект пожертвованием - спасибо!"
+
+#. key path
+msgid "app.home.discover"
+msgstr "Исследуйте Круг гусляров"
+
+#. key path
+msgid "app.home.discover_desc"
+msgstr "Найдите сообщество по вашим хобби или интересам."
+
+#. key path
+msgid "app.home.group"
+msgstr "Создать группу"
+
+#. key path
+msgid "app.home.group_desc"
+msgstr "Пригласите всех своих друзей, крутых ботов, и устройте большую вечеринку."
+
+#. key path
+msgid "app.home.feedback_desc"
+msgstr "Дайте нам знать, как мы можем улучшить наше приложение, оставив нам отзыв."
+
+#. key path
+msgid "quantities.members.one"
+msgstr "1 Участник"
+
+#. key path
+msgid "quantities.members.many"
+msgstr "{{count}} Участников"
+
+#. key path
+msgid "quantities.dropFiles.one"
+msgstr "Перетащить файл"
+
+#. key path
+msgid "quantities.dropFiles.many"
+msgstr "Перетащить {{count}} файлов"
+
+#. key path
+msgid "dayjs.nextWeek"
+msgstr "dddd [в] {{time}}"
+
+#. key path
+msgid "dayjs.sameElse"
+msgstr "L"
+
+#. key path
+msgid "dayjs.sameDay"
+msgstr "[Сегодня в] {{time}}"
+
+#. key path
+msgid "dayjs.nextDay"
+msgstr "[Завтра в] {{time}}"
+
+#. key path
+msgid "dayjs.lastWeek"
+msgstr "[Посл.] dddd [в] {{time}}"
+
+#. key path
+msgid "dayjs.lastDay"
+msgstr "[Вчера в] {{time}}"
+
+#. key path
+msgid "dayjs.defaults.twelvehour"
+msgstr "no"
+
+#. key path
+msgid "dayjs.defaults.date_format"
+msgstr "traditional"
+
+#. key path
+msgid "dayjs.defaults.date_separator"
+msgstr "."
+
+#. key path
+msgid "notifications.sent_request"
+msgstr "@{{person}} отправил вам запрос дружбы."
+
+#. key path
+msgid "notifications.now_friends"
+msgstr "Теперь вы дружите с @{{person}}!"
+
+#. key path
+msgid "error.FileTooLarge"
+msgstr "Файл слишком большой."
+
+#. key path
+msgid "error.RenderFail"
+msgstr "Ошибка обработки шаблона."
+
+#. key path
+msgid "error.AlreadyOnboarded"
+msgstr "Регистрация уже завершена."
+
+#. key path
+msgid "error.BlockedOther"
+msgstr "Этот пользователь заблокировал вас."
+
+#. key path
+msgid "error.RequiredField"
+msgstr "Обязательно"
+
+#. key path
+msgid "error.TooShort"
+msgstr "Слишком коротко"
+
+#. key path
+msgid "error.TooLong"
+msgstr "Слишком длинный"
+
+#. key path
+msgid "error.UnverifiedAccount"
+msgstr "Неверифицированный аккаунт."
+
+#. key path
+msgid "error.Unavailable"
+msgstr "Недоступно."
+
+#. key path
+msgid "error.InvalidSession"
+msgstr "Недействительный сеанс."
+
+#. key path
+msgid "error.UsernameTaken"
+msgstr "Это имя пользователя уже занято."
+
+#. key path
+msgid "error.AlreadyFriends"
+msgstr "Вы уже дружите с этим пользователем."
+
+#. key path
+msgid "error.MissingPermission"
+msgstr "Отсутствует разрешение."
+
+#. key path
+msgid "error.MissingHeaders"
+msgstr "Отсутствуют заголовки."
+
+#. key path
+msgid "error.UnknownUser"
+msgstr "Неизвестный пользователь."
+
+#. key path
+msgid "error.EmailInUse"
+msgstr "Электронная почта уже используется."
+
+#. key path
+msgid "error.EmailFailed"
+msgstr "Не удалось отправить письмо."
+
+#. key path
+msgid "error.OperationFailed"
+msgstr "Операция не удалась."
+
+#. key path
+msgid "error.MissingInvite"
+msgstr "В запросе отсутствует код приглашения."
+
+#. key path
+msgid "error.InvalidInvite"
+msgstr "Неверный код"
+
+#. key path
+msgid "error.IoError"
+msgstr "Сервер обнаружил ошибку ввода-вывода."
+
+#. key path
+msgid "error.UnsupportedBrowser"
+msgstr "Браузер не поддерживает эту функцию."
+
+#. key path
+msgid "error.DeniedNotification"
+msgstr "Вы запретили доступ к уведомлениям. Проверьте настройки страницы."
+
+#. key path
+msgid "error.NetworkError"
+msgstr "Ошибка сети."
+
+#. key path
+msgid "error.Unauthorized"
+msgstr "Не авторизован."
+
+#. key path
+msgid "error.Unlabelled"
+msgstr "Что-то случилось."
+
+#. key path
+msgid "error.FailedToReceive"
+msgstr "Серверу не удалось получить ваш файл."
+
+#. key path
+msgid "error.MissingData"
+msgstr "В запросе отсутствуют данные."
+
+#. key path
+msgid "error.ProbeError"
+msgstr "Не удалось получить метаданные файла."
+
+#. key path
+msgid "error.FailedValidation"
+msgstr "Не удалось проверить поля."
+
+#. key path
+msgid "error.DatabaseError"
+msgstr "Ошибка базы данных. Пожалуйста, обратитесь в службу поддержки."
+
+#. key path
+msgid "error.InternalError"
+msgstr "Внутренняя ошибка."
+
+#. key path
+msgid "error.InvalidCredentials"
+msgstr "Неверный адрес эл. почты или пароль."
+
+#. key path
+msgid "error.InvalidToken"
+msgstr "Недействительный токен"
+
+#. key path
+msgid "error.AlreadySentRequest"
+msgstr "Вы уже отправили запрос этому пользователю."
+
+#. key path
+msgid "error.Blocked"
+msgstr "Вы заблокировали этого пользователя."
+
+#. key path
+msgid "error.NoEffect"
+msgstr "Ничего не изменилось."
+
+#. key path
+msgid "error.UnknownError"
+msgstr "Посмотрите в консоль."
+
+#. key path
+msgid "error.InvalidEmail"
+msgstr "Недействительный адрес эл. почты"
+
+#. key path
+msgid "error.CompromisedPassword"
+msgstr "Эта комбинация пароля уже скомпрометирована и найдена в открытых источниках. Выберите, пожалуйста, другой пароль."
+
+#. key path
+msgid "error.ReachedMaximumBots"
+msgstr "Вы достигли лимита на создание ботов."
+
+#. key path
+msgid "error.AudioPermissionBlock"
+msgstr "Нет доступа к вашему микрофону. Пожалуйста, проверьте настройки вашего браузера."
+
+#. key path
+msgid "error.DiscriminatorChangeRatelimited"
+msgstr "Слишком много изменений тега."
+
+#. key path
+msgid "error.LockedOut"
+msgstr "Превышено количество попыток входа. Повторите попытку позже или сбросьте пароль."
+
+#. key path
+msgid "shortcuts.ctrlc"
+msgstr "Ctrl + C"
+
+#. key path
+msgid "permissions.ManageChannels.t"
+msgstr "Управлять каналами"
+
+#. key path
+msgid "permissions.ManageChannels.d"
+msgstr "Позволяет участникам создавать, редактировать и удалять каналы."
+
+#. key path
+msgid "permissions.ManageNicknames.t"
+msgstr "Управлять никнеймами"
+
+#. key path
+msgid "permissions.ManageNicknames.d"
+msgstr "Позволяет участникам изменять никнеймы других участников."
+
+#. key path
+msgid "permissions.ChangeAvatar.d"
+msgstr "Позволяет участникам изменять свой аватар на этом сервере."
+
+#. key path
+msgid "permissions.ChangeAvatar.t"
+msgstr "Изменять аватар"
+
+#. key path
+msgid "permissions.KickMembers.d"
+msgstr "Позволяет участникам выгонять участников из этого сервера. Выгнанные участники смогут вернуться по приглашению."
+
+#. key path
+msgid "permissions.KickMembers.t"
+msgstr "Выгонять участников"
+
+#. key path
+msgid "permissions.ManageServer.t"
+msgstr "Управлять сервером"
+
+#. key path
+msgid "permissions.ManageServer.d"
+msgstr "Позволяет участникам изменять название, описание, значок и другую связанную информацию этого сервера."
+
+#. key path
+msgid "permissions.BanMembers.t"
+msgstr "Банить участников"
+
+#. key path
+msgid "permissions.BanMembers.d"
+msgstr "Позволяет участникам навсегда банить других на этом сервере."
+
+#. key path
+msgid "permissions.ChangeNickname.d"
+msgstr "Позволяет участникам изменять свой никнейм на этом сервере."
+
+#. key path
+msgid "permissions.ChangeNickname.t"
+msgstr "Изменять никнейм"
+
+#. key path
+msgid "permissions.RemoveAvatars.d"
+msgstr "Позволяет участникам удалять серверные аватары других участников на этом сервере."
+
+#. key path
+msgid "permissions.RemoveAvatars.t"
+msgstr "Удалять аватары"
+
+#. key path
+msgid "permissions.VoiceCall.t"
+msgstr "Голосовой вызов"
+
+#. key path
+msgid "permissions.VoiceCall.d"
+msgstr "Позволяет участникам присоединяться к голосовым каналам."
+
+#. key path
+msgid "permissions.ManageChannel.d"
+msgstr "Позволяет участникам редактировать или удалять каналы."
+
+#. key path
+msgid "permissions.ManageChannel.t"
+msgstr "Управлять каналами"
+
+#. key path
+msgid "permissions.InviteOthers.d"
+msgstr "Позволяет участникам приглашать других пользователей в канал."
+
+#. key path
+msgid "permissions.InviteOthers.t"
+msgstr "Создавать приглашения"
+
+#. key path
+msgid "permissions.UploadFiles.d"
+msgstr "Позволяет участникам загружать файлы в текстовые каналы."
+
+#. key path
+msgid "permissions.UploadFiles.t"
+msgstr "Загружать файлы"
+
+#. key path
+msgid "permissions.SendMessage.t"
+msgstr "Отправлять сообщения"
+
+#. key path
+msgid "permissions.SendMessage.d"
+msgstr "Позволяет участникам отправлять сообщения в текстовых каналах."
+
+#. key path
+msgid "permissions.ManageMessages.t"
+msgstr "Управлять сообщениями"
+
+#. key path
+msgid "permissions.ManageMessages.d"
+msgstr "Позволяет участникам удалять сообщения, отправленные другими участниками."
+
+#. key path
+msgid "permissions.EmbedLinks.d"
+msgstr "Позволяет участникам показывать расширенный контент по ссылкам, которые они публикуют в текстовых каналах."
+
+#. key path
+msgid "permissions.EmbedLinks.t"
+msgstr "Встраивать ссылки"
+
+#. key path
+msgid "permissions.Masquerade.t"
+msgstr "Маскарад"
+
+#. key path
+msgid "permissions.Masquerade.d"
+msgstr "Позволяет участникам изменять своё имя и аватар для каждого сообщения."
+
+#. key path
+msgid "permissions.ManageRole.t"
+msgstr "Управлять ролями"
+
+#. key path
+msgid "permissions.ManageRole.d"
+msgstr "Позволяет участникам создавать, редактировать и удалять роли рангом ниже, чем их, и менять права каналов."
+
+#. key path
+msgid "permissions.ViewChannel.d"
+msgstr "Позволяет участникам просматривать любые каналы, на которых у них есть это разрешение."
+
+#. key path
+msgid "permissions.ViewChannel.t"
+msgstr "Просматривать канал"
+
+#. key path
+msgid "permissions.ManagePermissions.d"
+msgstr "Позволяет участникам изменять разрешения для каналов и ролей с более низкими правами."
+
+#. key path
+msgid "permissions.ManagePermissions.t"
+msgstr "Редактировать права"
+
+#. key path
+msgid "permissions.SendEmbeds.t"
+msgstr "Отправлять эмбеды"
+
+#. key path
+msgid "permissions.SendEmbeds.d"
+msgstr "Позволяет пользователям отправлять эмбеды, будь то ссылки или встроенный текст."
+
+#. key path
+msgid "permissions.MuteMembers.d"
+msgstr "Позволяет участникам отключать микрофон другим в голосовом канале."
+
+#. key path
+msgid "permissions.MuteMembers.t"
+msgstr "Отключать микрофон участникам"
+
+#. key path
+msgid "permissions.Connect.t"
+msgstr "Подключаться"
+
+#. key path
+msgid "permissions.Connect.d"
+msgstr "Позволяет участникам подключаться к голосовым каналам."
+
+#. key path
+msgid "permissions.ReadMessageHistory.t"
+msgstr "Просматривать историю сообщений"
+
+#. key path
+msgid "permissions.ReadMessageHistory.d"
+msgstr "Позволяет пользователям читать историю сообщений."
+
+#. key path
+msgid "permissions.TimeoutMembers.t"
+msgstr "Отстранять участников"
+
+#. key path
+msgid "permissions.TimeoutMembers.d"
+msgstr "Позволяет участникам временно запрещать пользователям взаимодействовать с сервером."
+
+#. key path
+msgid "permissions.AssignRoles.d"
+msgstr "Позволяет участникам назначать роли ниже их собственного ранга другим участникам."
+
+#. key path
+msgid "permissions.AssignRoles.t"
+msgstr "Назначать роли"
+
+#. key path
+msgid "permissions.Video.t"
+msgstr "Видео"
+
+#. key path
+msgid "permissions.Video.d"
+msgstr "Позволяет пользователям транслировать видео в голосовом канале."
+
+#. key path
+msgid "permissions.DeafenMembers.t"
+msgstr "Отключать звук участникам"
+
+#. key path
+msgid "permissions.DeafenMembers.d"
+msgstr "Позволяет участникам отключать звук другим в голосовом канале."
+
+#. key path
+msgid "permissions.Speak.d"
+msgstr "Позволяет пользователям говорить в голосовом канале."
+
+#. key path
+msgid "permissions.Speak.t"
+msgstr "Говорить"
+
+#. key path
+msgid "permissions.MoveMembers.t"
+msgstr "Перемещать участников"
+
+#. key path
+msgid "permissions.MoveMembers.d"
+msgstr "Позволяет пользователям перемещать других между голосовыми каналами."
+
+#. key path
+msgid "permissions.ManageWebhooks.t"
+msgstr "Управлять вебхуками"
+
+#. key path
+msgid "permissions.ManageWebhooks.d"
+msgstr "Позволяет пользователям взаимодействовать с вебхуками."
+
+#. key path
+msgid "permissions.React.d"
+msgstr "Разрешает участникам реагировать на сообщения."
+
+#. key path
+msgid "permissions.React.t"
+msgstr "Использование реакций"
+
+#. key path
+msgid "permissions.ManageCustomisation.t"
+msgstr "Управление персонализацией"
+
+#. key path
+msgid "permissions.ManageCustomisation.d"
+msgstr "Разрешает участникам создавать, изменять и удалять эмодзи."
+
+#. key path
+msgid "actions.submit"
+msgstr "Отправить"
+
+#. key path
+msgid "keys.CapsLock.full"
+msgstr "Caps Lock"
+
+#. key path
+msgid "keys.ScrollLock.short"
+msgstr "ScrLK"
+
+#. key path
+msgid "keys.ScrollLock.full"
+msgstr "Scroll Lock"
+
+#. key path
+msgid "keys.Insert.short"
+msgstr "Ins"
+
+#. key path
+msgid "keys.PrintScreen.short"
+msgstr "PrtSc"
+
+#. key path
+msgid "keys.PrintScreen.full"
+msgstr "Print Screen"
+
+#. key path
+msgid "keys.PageDown.short"
+msgstr "PgDown"
+
+#. key path
+msgid "keys.PageDown.full"
+msgstr "Page Down"
+
+#. key path
+msgid "keys.PageUp.short"
+msgstr "PgUp"
+
+#. key path
+msgid "keys.PageUp.full"
+msgstr "Page Up"
+
+#. key path
+msgid "keys.Backspace.short"
+msgstr "Backspace"
+
+#. key path
+msgid "keys.Delete.short"
+msgstr "Del"
+
+#. key path
+msgid "keys.Control.short"
+msgstr "Ctrl"
+
+#. key path
+msgid "keys.Escape.short"
+msgstr "Esc"
